@@ -26,7 +26,7 @@ This project is a personal resume website built with C# and ASP.NET Core that co
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ester-Carlebach/Cv-site.git
+git clone https://github.com/miriam40421/CV-site.git
 cd Cv-site
 ```
 
